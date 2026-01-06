@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Canal1" tvg-logo="" group-title="Teste",Canal1
+http://teste:80/teste/teste/123
+#EXTINF:-1 tvg-id="" tvg-name="Canal2" tvg-logo="" group-title="Teste",Canal2
+http://teste:80/teste/teste/124
+#EXTINF:-1 tvg-id="" tvg-name="Canal3" tvg-logo="" group-title="Teste",Canal3
+http://teste:80/teste/teste/125
+#EXTINF:-1 tvg-id="" tvg-name="Canal4" tvg-logo="" group-title="Teste",Canal4
+http://teste:80/teste/teste/126
